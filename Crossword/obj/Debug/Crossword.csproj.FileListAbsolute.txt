@@ -1,0 +1,10 @@
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\obj\Debug\Crossword.csprojResolveAssemblyReference.cache
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\obj\Debug\Crossword.MainForm.resources
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.Cache
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\obj\Debug\Crossword.Clues.resources
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Crossword\Crossword\bin\Debug\puzzles\puzzle.pzl
